@@ -1,0 +1,7 @@
+4817050020,Pepsodent Whitening 75gr,400,12500
+4817050022,Aqua Botol 330Ml,500,4000
+4817050023,Double Tape 10cm x 5m,10,5000
+4817050024,Lifebouy Mild Care 110gr,95,2500
+4817050025,Rexona Motion Sense 50gr,50,12700
+4817050026,Haribo Tropifrutti 80gr,500,15250
+4817050027,Paseo Tissue 10gr,100,10000
